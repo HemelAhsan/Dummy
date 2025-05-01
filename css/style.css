@@ -1,0 +1,20 @@
+/*font-variant caps means capaitalizing every letter with enlarging the first letter,*/
+/* 1em=16 px*/
+
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;}
+
+.container{width: 1200px;
+margin: 0 auto;
+overflow: hidden;}
+
+img{max-width: 100%;
+display: block;}
+
+a{text-decoration: none;
+  display: inline-block;}
+
+li{list-style: none;}
